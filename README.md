@@ -2,7 +2,7 @@
 
 ### 💡 AI | Machine Learning | Full Stack Developer
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Joseph25Rejo?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Joseph25Rejo?cardType=github&fontFamily=&preferLogin=false)
 
 ---
 
